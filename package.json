@@ -1,0 +1,25 @@
+{
+  "name": "first-project",
+  "version": "1.0.0",
+  "description": "freeCodeCamp coursework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jwu910/first-project-npm.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "js",
+    "freeCodeCamp"
+  ],
+  "bugs": {
+    "url": "https://github.com/jwu910/first-project-npm/issues"
+  },
+  "homepage": "https://github.com/jwu910/first-project-npm#readme"
+}
